@@ -14,7 +14,7 @@ Processed Cleveland Heart Disease Dataset.
 - Matplotlib
 
 ## Accuracy
-Cross-validation accuracy: XX%
+Cross-validation accuracy: 75.23%
 
 ## Run
 
